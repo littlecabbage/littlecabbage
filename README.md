@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Harbin Institute Of Technology(Shenzhen)
+- 🌱 I’m currently learning Time Series Anomaly Detection
+[![sync's github stats](https://github-readme-stats.vercel.app/api?username=littlecabbage)](https://github.com/littlecabbage)
