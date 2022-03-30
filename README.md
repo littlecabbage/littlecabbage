@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I’m currently working on `Harbin Institute Of Technology(Shenzhen)`
+- 😄 I’m currently working on `Harbin Institute of Technology(Shenzhen)`
 - 💪 I’m currently learning `Time Series Anomaly Detection`
 
 ![SYNC's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlecabbage&show_icons=true&theme=dracula)
