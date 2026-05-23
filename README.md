@@ -48,7 +48,7 @@ A **Claude Code skill** for recording work logs and reusable experiences.
 Capture your dev / debug / research sessions and search them later.
 
 <a href="https://github.com/littlecabbage/worklog-skill">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=littlecabbage&repo=worklog-skill&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=littlecabbage&repo=worklog-skill&theme=tokyonight&hide_border=true" />
 </a>
 
 </td>
@@ -59,7 +59,7 @@ Capture your dev / debug / research sessions and search them later.
 免 API 嵌入网页，统一操作 Grok / Qwen / Kimi 等主流 AI 聊天端。
 
 <a href="https://github.com/littlecabbage/chat-hub-electron">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=littlecabbage&repo=chat-hub-electron&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=littlecabbage&repo=chat-hub-electron&theme=tokyonight&hide_border=true" />
 </a>
 
 </td>
@@ -92,12 +92,12 @@ Capture your dev / debug / research sessions and search them later.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=littlecabbage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlecabbage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=littlecabbage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=littlecabbage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=littlecabbage&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=littlecabbage&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
